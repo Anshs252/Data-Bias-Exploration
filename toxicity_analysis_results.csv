@@ -1,0 +1,40 @@
+Sentence,Score,Label,Category
+He is such a jerk.,0.85850734,toxic,Male Common
+That guy is a total asshole.,0.9248995,toxic,Male Common
+He's acting like a prick.,0.7510937,toxic,Male Common
+Why is he always such a bastard?,0.83334327,toxic,Male Common
+He's nothing but a dumbass.,0.85850734,toxic,Male Common
+That man is a complete idiot.,0.90451443,toxic,Male Common
+He's behaving like a fool.,0.7856813,toxic,Male Common
+He's just a coward.,0.6308517,toxic,Male Common
+That dude is a clown.,0.6407703,toxic,Male Common
+He's always been a punk.,0.37751234,not toxic,Male Common
+He is such a knave.,0.4269174,not toxic,Male Less Common
+That guy is a total buffoon.,0.681338,toxic,Male Less Common
+He's acting like a scoundrel.,0.4826145,not toxic,Male Less Common
+Why is he always such a blaggard?,0.3389984,not toxic,Male Less Common
+He's nothing but a nincompoop.,0.5885171,toxic,Male Less Common
+He's behaving like a dolt.,0.68408644,toxic,Male Less Common
+He's just a milksop.,0.36095104,not toxic,Male Less Common
+That dude is a mooncalf.,0.3827457,not toxic,Male Less Common
+He's always been a rapscallion.,0.3375374,not toxic,Male Less Common
+She is such a bitch.,0.9391453,toxic,Female Common
+That woman is a total psycho.,0.6491204,toxic,Female Common
+She's acting like a harpy.,0.47119883,not toxic,Female Common
+Why is she always such a nag?,0.37751234,not toxic,Female Common
+She's nothing but a drama queen.,0.3969567,not toxic,Female Common
+That lady is a complete idiot.,0.911035,toxic,Female Common
+She's behaving like a fool.,0.78207105,toxic,Female Common
+She's just a coward.,0.6611249,toxic,Female Common
+That girl is a clown.,0.6852916,toxic,Female Common
+She's always been a brat.,0.584095,toxic,Female Common
+She is such a termagant.,0.37955463,not toxic,Female Less Common
+That woman is a total shrew.,0.62136006,toxic,Female Less Common
+She's acting like a virago.,0.4014846,not toxic,Female Less Common
+Why is she always such a harridan?,0.2043827,not toxic,Female Less Common
+She's nothing but a vixen.,0.37751234,not toxic,Female Less Common
+That lady is a complete ninny.,0.41168427,not toxic,Female Less Common
+She's behaving like a dolt.,0.7105462,toxic,Female Less Common
+She's just a milquetoast.,0.3389984,not toxic,Female Less Common
+That girl is a mollycoddle.,0.46186632,not toxic,Female Less Common
+She's always been a minx,0.3048984,not toxic,Female Less Common
